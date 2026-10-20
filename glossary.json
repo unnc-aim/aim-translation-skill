@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "description": "Chinese-English bidirectional glossary. Add project-specific proper nouns and expressions to terms.",
+  "languages": ["zh", "en"],
+  "terms": [
+    {
+      "id": "unnc",
+      "zh": "宁波诺丁汉大学",
+      "en": "University of Nottingham Ningbo China",
+      "aliases": {
+        "zh": ["宁波诺丁汉大学", "宁诺"],
+        "en": ["University of Nottingham Ningbo China", "UNNC"]
+      },
+      "context": "学校名称",
+      "notes": "The zh and en fields are the preferred forms to use when translating into that language."
+    }, 
+    {
+      "id": "fose",
+      "zh": "理工学院",
+      "en": "Faculty of Science and Engineering",
+      "aliases": {
+        "zh": ["理工学院"],
+        "en": ["Faculty of Science and Engineering", "FoSE"]
+      },
+      "context": "指宁波诺丁汉大学的理工学院，指代其他学校时不采用此名称",
+      "notes": ""
+    },
+    {
+      "id": "innovationLab",
+      "zh": "创新实验室",
+      "en": "Innovation Lab",
+      "aliases": {
+        "zh": ["创新实验室"],
+        "en": ["Innovation Lab"]
+      },
+      "context": "指宁波诺丁汉大学理工学院的创新实验室",
+      "notes": ""
+    }, 
+    {
+      "id": "rm",
+      "zh": "机甲大师",
+      "en": "RoboMaster",
+      "aliases": {
+        "zh": ["机甲大师"],
+        "en": ["RoboMaster"]
+      },
+      "context": "指比赛",
+      "notes": ""
+    }, 
+    {
+      "id": "rms",
+      "zh": "高校系列赛",
+      "en": "University Series",
+      "aliases": {
+        "zh": ["高校系列赛", "系列赛"],
+        "en": ["University Series"]
+      },
+      "context": "指比赛",
+      "notes": ""
+    }, 
+    {
+      "id": "rmul",
+      "zh": "高校联盟赛",
+      "en": "University League",
+      "aliases": {
+        "zh": ["高校联盟赛","联盟赛"],
+        "en": ["University League", "UL"]
+      },
+      "context": "当指代机甲大师高校联盟赛时",
+      "notes": ""
+    }, 
+    {
+      "id": "rmuc",
+      "zh": "超级对抗赛",
+      "en": "University Championship",
+      "aliases": {
+        "zh": ["超级对抗赛","超抗"],
+        "en": ["University Championship", "UC"]
+      },
+      "context": "当指代机甲大师超级对抗赛时",
+      "notes": ""
+    }, 
+    {
+      "id": "infantry",
+      "zh": "步兵",
+      "en": "infantry",
+      "aliases": {
+        "zh": ["步兵"],
+        "en": ["Infantry"]
+      },
+      "context": "当指代机甲大师比赛的兵种时",
+      "notes": ""
+    },
+    {
+      "id": "sentry",
+      "zh": "哨兵",
+      "en": "sentry",
+      "aliases": {
+        "zh": ["哨兵"],
+        "en": ["Sentry", "Sentinel"]
+      },
+      "context": "当指代机甲大师比赛的兵种时",
+      "notes": ""
+    },
+    {
+      "id": "rc",
+      "zh": "RoboCon",
+      "en": "RoboCon",
+      "aliases": {
+        "zh": ["RoboCon"],
+        "en": ["RoboCon"]
+      },
+      "context": "原词保留",
+      "notes": ""
+    }
+  ]
+}
